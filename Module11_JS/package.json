@@ -1,0 +1,15 @@
+{
+  "name": "js-module",
+  "version": "1.0.0",
+  "description": "js files with tests",
+  "main": "Month.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Lykova A",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lykovaanna/module11_homework.git"
+  }
+}
